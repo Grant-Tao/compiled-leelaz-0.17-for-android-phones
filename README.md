@@ -5,6 +5,7 @@ Both cpu-only and opencl single precision modes are working
 
 
 leelaz_855  for Qualcomm snapdragon 855 && Android 9.0 (not tested)
+leelaz_820  for Qualcomm snapdragon 820 (not tested)
 
 leelaz_970  for Huawei Kirin 970 && Android 9.0  (tested, work on cpu-only and opencl precision single modes)
 
