@@ -12,6 +12,8 @@ leelaz_970  for Huawei Kirin 970 && Android 9.0  (tested, work on cpu-only and o
 
 leelaz_660  for Redmi Note 7, snapdragon 660 & Android 9.0 (tested, work on all modes)
 
+sai_970  is https://github.com/sai-dev/sai, for Huawei Kirin 970 && Android 9.0 (tested, work on cpu-only and opencl precision single modes)
+
 Running under:
 
 weight file: gzip format (txt not work)
